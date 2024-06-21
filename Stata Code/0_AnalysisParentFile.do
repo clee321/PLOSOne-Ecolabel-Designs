@@ -7,9 +7,9 @@
 *User file paths
 if "`c(username)'" =="xxx" {
 
-	global Data "/yyy/APPETITE-Ecolabel-Designs/Project folders-files/Data"
-	global Code "/yyy/APPETITE-Ecolabel-Designs/Stata Code"
-	global ResultsEco "/yyy/APPETITE-Ecolabel-Designs/Project folders-files/Results/Ecolabel"
+	global Data "/yyy/PLOSOne-Ecolabel-Designs/Project folders-files/Data"
+	global Code "/yyy/PLOSOne-Ecolabel-Designs/Stata Code"
+	global ResultsEco "/yyy/PLOSOne-Ecolabel-Designs/Project folders-files/Results/Ecolabel"
 
 }
 
