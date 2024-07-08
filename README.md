@@ -1,7 +1,7 @@
-## Replication files for "Testing ecolabel designs to encourage sustainable eating in restaurants: A randomized experiment"
+## Replication files for "Developing ecolabels to encourage sustainable eating in restaurants: A randomized experiment"
 
 ### Description
-This repository includes the raw data file, folder structure, and Stata code to reproduce the analysis of the manuscript "Testing ecolabel designs to encourage sustainable eating in restaurants: A randomized experiment"
+This repository includes the raw data file, folder structure, and Stata code to reproduce the analysis of the manuscript "Developing ecolabels to encourage sustainable eating in restaurants: A randomized experiment"
 
 ### Instructions to reproduce the analysis:
 
